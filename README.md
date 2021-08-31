@@ -1,4 +1,4 @@
-# vfsAppointmentBot by Dipen
+# vfsAppointmentBot
 Monitor Appointments 24*7
 ----------------------------------------------------------------------------
 Initial setup
